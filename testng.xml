@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testproject" annotations= "JDK" thread-count="1">
+ <test name="weightwatchers ">  
+  <classes>    
+	 <class name="com.sample.testproject.executor.WeightWatchersExecutor" />		 
+ </classes>
+</test> 
+</suite>
